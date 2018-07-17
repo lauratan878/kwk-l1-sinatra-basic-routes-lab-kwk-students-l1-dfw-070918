@@ -11,7 +11,7 @@ end
     "My hometown is Plano"
   end
   get '/favorite-song' do
-    "My favorite-song is You Belong With Me"
+    "My favorite song is You Belong With Me"
 end
 end 
   
